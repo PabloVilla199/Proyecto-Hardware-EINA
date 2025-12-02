@@ -80,10 +80,3 @@ Esta separación permite que la capa de aplicación no necesite cambios para cam
 - Los HAL deben implementar exactamente lo necesario para los drivers; evitar mezclar lógica de aplicación dentro del HAL.
 - Usar `rt_fifo` y los servicios para mantener separadas las ISRs de la lógica de alto nivel.
 
-**Licencia y autores**
-- Ver `LICENSE` en la raíz.
-- Autores / contribuyentes principales: Pablo Villa, Alejandro Lacosta (y otros colaboradores dentro de la carpeta del P5).
-
-**¿Qué seguir a continuación?**
-- Revisar los diagramas `Diagrama_Estados_*.png` para entender el flujo temporal.
-- Abrir `ManualUsuario.pdf` para pasos de compilación y el `PPTX` si necesitas la presentación para exponer el proyecto.
