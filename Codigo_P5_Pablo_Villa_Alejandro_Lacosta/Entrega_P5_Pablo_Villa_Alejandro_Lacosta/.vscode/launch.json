@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Pablo/Desktop/PH_5_874773_Pablo_Villa_870897_Alejandro_Lacosta/Entrega_Martes_p5/Codigo_P5_Pablo_Villa_Alejandro_Lacosta/Entrega_P5_Pablo_Villa_Alejandro_Lacosta/P5/lpc/src_lpc",
+      "program": "c:/Users/Pablo/Desktop/PH_5_874773_Pablo_Villa_870897_Alejandro_Lacosta/Entrega_Martes_p5/Codigo_P5_Pablo_Villa_Alejandro_Lacosta/Entrega_P5_Pablo_Villa_Alejandro_Lacosta/P5/lpc/src_lpc/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

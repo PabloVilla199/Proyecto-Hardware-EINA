@@ -1,0 +1,6 @@
+
+
+/*iniciar*/
+
+/*dar_comer*/
+
