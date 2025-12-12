@@ -761,8 +761,8 @@ void rt_FIFO_encolar(uint32_t ID_evento, uint32_t auxData) {
 
 **Licencia y autores**
 - Ver `LICENSE` en la raíz.
-- Autores / contribuyentes principales: Pablo Villa, Alejandro Lacosta (y otros colaboradores dentro de la carpeta del P5).
+- Autores / contribuyentes principales: Pablo Villa, Alejandro Lacosta.
 
 **¿Qué seguir a continuación?**
 - Revisar los diagramas `Diagrama_Estados_*.png` para entender el flujo temporal.
-- Abrir `ManualUsuario.pdf` para pasos de compilación y el `PPTX` si necesitas la presentación para exponer el proyecto.
+- Abrir `ManualUsuario.pdf` para pasos de compilación y el `PPTX` si necesitas la presentación.
